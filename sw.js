@@ -1,5 +1,5 @@
 // Csak a burok fájljait tárolja; maga az app (script.google.com) mindig élőben töltődik.
-const CACHE = 'tanulmanyi-v1';
+const CACHE = 'tanulmanyi-v2';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'favicon.ico',
   'icon-192.png', 'icon-512.png', 'maskable-192.png', 'maskable-512.png'];
 
